@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on The Coronavirus Journal
+- 🔭 I’m currently working on The Coronavirus Recap
 - 🌱 I’m currently learning Python, Javascript and HTML
 - 📫 How to reach me: emile.villette@student.uclouvain.be
 
