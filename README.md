@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on The Coronavirus Recap
-- 🌱 I’m currently learning Python, Javascript and HTML
+- 🔭 I’m currently working on A secret project...
+- 🌱 I’m currently learning Python, Javascript, HTML and CSS
 - 📫 How to reach me: emile.villette@student.uclouvain.be
 
 <!--
