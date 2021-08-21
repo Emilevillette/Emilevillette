@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning Python, Javascript, HTML and CSS
 - 📫 How to reach me: emile.villette@student.uclouvain.be
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Emilevillette&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 <!--
 **Emilevillette/Emilevillette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
