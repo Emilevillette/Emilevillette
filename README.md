@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning Python, Javascript, HTML and CSS
 - 📫 How to reach me: emile.villette@student.uclouvain.be
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Emilevillette&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emilevillette&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emilevillette&layout=compact&show_icons=true&theme=onedark&count_private=true&include_all_commits=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
