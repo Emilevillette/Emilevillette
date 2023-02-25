@@ -1,11 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on A secret project...
-- 🌱 I’m currently learning Python, Javascript, HTML and CSS
-- 📫 How to reach me: emile.villette@student.uclouvain.be
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emilevillette&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emilevillette&layout=compact&show_icons=true&theme=radical&count_private=true&include_all_commits=true&langs_count=10)
+If you want to collaborate: emile.villette@student.uclouvain.be
 
 
 <!--
